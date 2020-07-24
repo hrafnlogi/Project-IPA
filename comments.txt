@@ -1,0 +1,13 @@
+<EditScreenInfo path="/screens/TabOneScreen.tsx" />
+
+
+
+
+
+
+
+        <Button
+        color="#f28e1c"
+        title="Play"
+        onPress={() => Alert.alert('Simple Button pressed')}
+        />
